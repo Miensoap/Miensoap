@@ -5,6 +5,7 @@
 <br><br><br>
 
 <div align="center">
-  <p style="font-weight:bold;">🍀 Codesquad Masters_BE (2024.01.29~)</p>
+  <p style="font-weight:bold;">🟦 boostcamp Challenge (2024.07. ~ 2024.08)</p>
+  <p style="font-weight:bold;">🍀 Codesquad Masters_BE (2024.01. ~ 2024.08)</p>
 </div>
 
